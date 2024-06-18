@@ -1,4 +1,4 @@
-Small project 
+# Beautiful Image Generator (WIP)
 
 With the input of one image (any image), you can turn it into a beautiful picture! Uses pixels from your image to depict a (similar in color) beautiful image. 
 Uses Pillow and NumPy :)
